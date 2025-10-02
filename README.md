@@ -1,0 +1,1 @@
+# HTB_Web_Fuzzing_skill_assessment
